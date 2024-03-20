@@ -1,5 +1,7 @@
 import random
 
+#Prueba commit para la practica de push
+
 FILAS = 5
 COLUMNAS = 5
 META_FILA = FILAS - 1
